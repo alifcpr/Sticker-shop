@@ -41,10 +41,7 @@ const ShoppingCart = () => {
               key={item.id}
               className="border-2 flex flex-col gap-y-2 items-center justify-center [&:not(:first-child)] : mt-4 p-3 gap-x-8 rounded-lg md:flex-row"
             >
-              <img
-                className="w-14 rounded-lg"
-                src={`../../server/public/images/${item.sticker}`}
-              />
+              <img className="w-14 rounded-lg" src={`${item.image}`} />
               <h1 className="font-body  overflow-hidden text-ellipsis">
                 {item.title}
               </h1>

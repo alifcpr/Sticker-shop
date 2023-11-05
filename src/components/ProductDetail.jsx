@@ -19,7 +19,7 @@ const ProductDetail = () => {
           <div className="max-w-6xl p-4 flex gap-x-6">
             <div className="overflow-hidden rounded-lg w-96">
               <img
-                src={`../../server/public/images/${product.sticker}`}
+                src={`${product.image}`}
                 className=" transition-all duration-300  hover:scale-125"
               />
             </div>

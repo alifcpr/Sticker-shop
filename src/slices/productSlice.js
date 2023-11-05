@@ -8,7 +8,7 @@ const initialState = {
 export const featchProducts = createAsyncThunk(
   "/prdocts/featchProducts",
   async () => {
-    const response = await axios.get("https://sticker-api-seven.vercel.app/stickers");
+    const response = await axios.get("https://sticker-api-f44x.vercel.app/stickers");
     return response.data;
   }
 );

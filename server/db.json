@@ -5,210 +5,240 @@
       "title": "استیکر ۱ + ۱",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "11.jpg"
+      "sticker": "11.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bafca8093a9f8fdcdb045e79bba739af50046891_1646250156.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "02",
       "title": "استیکر اندروید ۴",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Android-4.jpg"
+      "sticker": "Android-4.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/121534244.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "03",
       "title": "استیکر اندروید گرد",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Android-Gerd.jpg"
+      "sticker": "Android-Gerd.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/79c9c900d4e83983e152fd83f49da4d86100d12f_1674839260.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "04",
       "title": "استیکر اندروید مکانیک",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Android-Mechanic.jpg"
+      "sticker": "Android-Mechanic.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/722d9a5c1a36e06fc58c2b07885a2348771c9243_1645777713.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "05",
       "title": "استیکر لینوکس Arch",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Arch-linux.jpg"
+      "sticker": "Arch-linux.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dc478ca790b3080785130ce3e6e4892634063655_1601046922.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "06",
       "title": "استیکر Bash",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Bash.jpg"
+      "sticker": "Bash.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e56223ad916efe80b75804c6b53e15e7f34bfee5_1675176744.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "07",
       "title": "استیکر Catch",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Catch.jpg"
+      "sticker": "Catch.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e79d3e94d2ab8d60190f0e3ff019440f5099bbf1_1650445762.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "08",
       "title": "استیکر Clean Code",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Clean-Code.jpg"
+      "sticker": "Clean-Code.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/676fb1aca6aa401857998629de68b8d20a9b35c3_1632201067.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "09",
       "title": "استیکر کد قهوه تکرار",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Code-Coffee-Repeat.jpg"
+      "sticker": "Code-Coffee-Repeat.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a5b1646038b581af39cb41cb5c56ba2d43fad507_1645993983.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "10",
       "title": "استیکر تبدیل قهوه به کد",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Coffee-to-Code.jpg"
+      "sticker": "Coffee-to-Code.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3e5199d6dea216a7e842d592e29588f5afa060b0_1685606214.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "11",
       "title": "استیکر Coffee Script",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Coffee-Script.jpg"
+      "sticker": "Coffee-Script.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4b3dfde9b0de4ecfe09baf765bf07764ae71acd6_1604905879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "12",
       "title": "استیکر تبدیل قهوه به کد",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Coffe-to-Code.jpg"
+      "sticker": "Coffe-to-Code.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f3e3408819712d8f950a1f928923e711633ae836_1595399034.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "13",
       "title": "استیکر قهوه",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Coffee.jpg"
+      "sticker": "Coffee.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7c9ba325a01cfe7dbde6c725937980f01282562e_1608792189.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "14",
       "title": "استیکر Css To Html",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "CSS-to-HTML.jpg"
+      "sticker": "CSS-to-HTML.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4dbb45fa08233a634afdd38f4257b2a0964c7b6b_1674839577.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "15",
       "title": "استیکر Css",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "CSS.jpg"
+      "sticker": "CSS.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d5ebca4ca801171ab16e027fd4883e2392df62e8_1688181535.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "16",
       "title": "استیکر Developer",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Developer.jpg"
+      "sticker": "Developer.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/18dcfe3d40c762c03dff4df2cafc046e11f0edf2_1688181486.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "17",
       "title": "استیکر Dont Touch",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Dont-Touch.jpg"
+      "sticker": "Dont-Touch.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/84d346c79b03ca7a39443bfbf1e372efaa32e7c6_1610007383.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "18",
       "title": "استیکر Emc2",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Emc2.jpg"
+      "sticker": "Emc2.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/83fc932bafde47a9538fef681424c2885a1cf9f4_1680728364.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "19",
       "title": "استیکر False",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "False.jpg"
+      "sticker": "False.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4a965ab63fe5b5a0f4fc960c8d04fcd1f82f6112_1642666043.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "20",
       "title": "استیکر Food Sleep",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Food-Sleep.jpg"
+      "sticker": "Food-Sleep.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7bf9d2b5d506d99b36eded9d8017840cf7558722_1659885503.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "21",
       "title": "استیکر Geek Girl",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Geek-Girl.jpg"
+      "sticker": "Geek-Girl.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/793922145914f65ed41b30a324e84640d5471edc_1610437912.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "22",
       "title": "استیکر Geek Inside",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Geek-Inside.jpg"
+      "sticker": "Geek-Inside.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bbf61f0e3ca3d014aa054ab4860844202add2a45_1645893645.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "23",
       "title": "استیکر Geek",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Geek.jpg"
+      "sticker": "Geek.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/82316daacd59bfa0088f7feb4d08226b823c3de8_1642614037.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "24",
       "title": "استیکر Gem",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Gem.jpg"
+      "sticker": "Gem.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d6d0c7885ba8739d7e75ac95278ad76c1522dfc8_1629618510.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "25",
       "title": "استیکر Github",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Github-Saye.jpg"
+      "sticker": "Github-Saye.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a4a286a9bac777dab77833a00d624f77685dbc06_1657996026.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "26",
       "title": "استیکر Google Geek",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Google-Geek.jpg"
+      "sticker": "Google-Geek.jpg",
+      "image" : "https://dkstatics-public.digikala.com/digikala-products/3495381243975d03b1d2270be3be0d7de8cf06af_1642666245.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "27",
       "title": "استیکر Hacker Inside",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Hacker-Inside.jpg"
+      "sticker": "Hacker-Inside.jpg",
+      "image" : "https://dkstatics-public.digikala.com/digikala-products/f0b679674cbbc99fb259e2e30e3a6ebe7c0c06b2_1607256111.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "28",
       "title": "استیکر Hello World",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Hello-World.jpg"
+      "sticker": "Hello-World.jpg",
+      "image" : "https://dkstatics-public.digikala.com/digikala-products/f0b679674cbbc99fb259e2e30e3a6ebe7c0c06b2_1607256111.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "29",
       "title": "استیکر I Am Programmer",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "I-am-Programmer.jpg"
+      "sticker": "I-am-Programmer.jpg",
+      "image" : "https://dkstatics-public.digikala.com/digikala-products/164ca7299fa5f91baa42f1e8374d806f4cdffcda_1659885480.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     },
     {
       "id": "30",
       "title": "استیکر Node",
       "price": 3000,
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
-      "sticker": "Js-Node.jpg"
+      "sticker": "Js-Node.jpg",
+      "image" : "https://dkstatics-public.digikala.com/digikala-products/96f0dd3c32b02402c1f0b2aa27e997ca08e81f08_1680727782.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
     }
   ]
 }
