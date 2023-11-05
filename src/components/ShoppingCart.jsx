@@ -36,26 +36,19 @@ const ShoppingCart = () => {
         </div>
       ) : (
         <div className="border-2 shadow-lg p-4 rounded-lg">
-          <div className="flex justify-between items-center font-body  p-3 gap-x-8 rounded-lg">
-            <h1>عکس</h1>
-            <h1>اسم محصول</h1>
-            <h1>تعداد محصول</h1>
-            <h1>قیمت</h1>
-            <h1>حذف از سبد</h1>
-          </div>
           {allCartItems.map((item) => (
             <div
               key={item.id}
-              className="border-2 flex justify-between [&:not(:first-child)] : mt-4 items-center p-3 gap-x-8 rounded-lg"
+              className="border-2 flex flex-col gap-y-2 items-center justify-center [&:not(:first-child)] : mt-4 p-3 gap-x-8 rounded-lg md:flex-row"
             >
               <img
                 className="w-14 rounded-lg"
                 src={`../../server/public/images/${item.sticker}`}
               />
-              <h1 className="font-body w-[10vw] overflow-hidden text-ellipsis">
+              <h1 className="font-body  overflow-hidden text-ellipsis">
                 {item.title}
               </h1>
-              <div className="flex justify-between w-[4vw]">
+              <div className="flex gap-x-3 justify-between ">
                 <button
                   onClick={() => disptach(incrementItem(item))}
                   className="bg-slate-100 rounded-full w-6 h-6 flex items-center justify-center"
@@ -92,7 +85,7 @@ const ShoppingCart = () => {
                   </svg>
                 </button>
               </div>
-              <h1 className="w-[5vw] text-center font-body">
+              <h1 className="text-center font-body">
                 {Number(item.price).toLocaleString()}
               </h1>
               <button
@@ -104,7 +97,7 @@ const ShoppingCart = () => {
             </div>
           ))}
           <div className="my-5 font-body">
-            <span className="flex gap-x-3">
+            <span className="flex">
               <p>تعداد کل محصولات : </p>
               <h1>{allCartInfo.cartTotalQty}</h1>
             </span>
@@ -113,7 +106,7 @@ const ShoppingCart = () => {
               <h1>{Number(allCartInfo.cartTotalAmount).toLocaleString()}</h1>
             </span>
           </div>
-          <div className="flex justify-between items-center">
+          <div className="flex justify-between items-center gap-x-6 md:gap-x-0">
             <button
               onClick={() => disptach(removeAllItems())}
               className="bg-red-500 px-2 py-1 rounded-lg text-white font-body"

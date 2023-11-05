@@ -5,7 +5,7 @@ import { Outlet } from "react-router-dom";
 
 const MainLayout = ({ children }) => {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen px-5">
       <main>
         <Header />
         {children}

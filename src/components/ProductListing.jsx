@@ -10,7 +10,7 @@ const ProductListing = ({ currentProducts, status: productStatus }) => {
           <h1 className="text-4xl font-body font-extrabold">Loading...</h1>
         </div>
       ) : productStatus === "success" ? (
-        <div className="min-h-screen mt-7 max-w-6xl mx-auto grid justify-between grid-cols-12 gap-5">
+        <div className="min-h-screen mt-7 max-w-6xl mx-auto  justify-between grid grid-cols-12 gap-5">
           {currentProducts.map((prodcut) => (
             <ProdutCard key={prodcut.id} productInfo={prodcut} />
           ))}
